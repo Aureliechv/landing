@@ -1,0 +1,21 @@
+.card-holder {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+}
+
+.card-concept-info {
+  width: 180px;
+  box-shadow: 0 0 18px #0000002e;
+  position: relative;
+  padding: 15px 5px;
+}
+
+.card-holder i {
+  font-size: 60px;
+  position: absolute;
+  top: -40px;
+  left: 61px;
+}

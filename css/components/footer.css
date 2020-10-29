@@ -1,0 +1,18 @@
+.footer {
+    background: black;
+    opacity: 0.8;
+    color: white;
+    padding: 50px;
+    font-style: italic;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px;
+}
+
+.list-inline a {
+  color: white;
+  font-size: 35px;
+  margin: 5px;
+}

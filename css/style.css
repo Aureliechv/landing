@@ -1,0 +1,47 @@
+/* Fonts */
+@import url("https://fonts.googleapis.com/css2?family=Concert+One&family=Noto+Sans&display=swap");
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+@import url('components/banner.css');
+@import url('components/button.css');
+@import url('components/cards.css');
+@import url('components/footer.css');
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Concert One', cursive;
+  color: black;
+}
+
+a {
+  text-decoration: none;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.container {
+  padding: 50px;
+  width: 900px;
+  margin: 0 auto;
+  position: relative;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+  text-decoration: none;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px;
+}
